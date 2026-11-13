@@ -29,7 +29,7 @@ An interactive Tableau dashboard designed to analyze Indian Premier League (IPL)
 9. Venue Analysis
 
 ## Dashboard
-[View Interactive Tableau Dashboard](https://public.tableau.com/views/1CR24EC0135A/IPLOverviewDashboard)
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/Ajay1CR24EC013/IPLOverviewDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Files
 - Tableau packaged workbook (.twbx)
